@@ -83,7 +83,7 @@ I am using git commits to follow me during this process .
 
 my next challenge is [NFT preview card component](https://www.figma.com/file/SYFRvTvTGdCo3iTXxu2kZE/nft-preview-card-component?node-id=0%3A59)
 
-when I do it , solution link will be right [here]()
+when I do it , solution link will be right [here](https://github.com/anaosadze/nft-preview-card-component--2.git)
 
 #### I will be happy If you give me some feedback. It will help me a lot.
 
