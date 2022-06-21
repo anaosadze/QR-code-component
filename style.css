@@ -2,7 +2,7 @@
 /*-------------------------------------------------*/
 :root {
   --color-white: #ffffff;
-  --color-light-gray: #d5e1ef;
+  --color-light-grey: #d5e1ef;
   --color-grey: #7d889e;
   --color-dark-navy: #1f314f;
 }
@@ -52,12 +52,13 @@ body {
   margin: 0;
   text-size-adjust: none;
   min-height: 100vh;
-  background-color: var(--color-light-gray);
+  background-color: var(--color-light-grey);
   font-family: Outfit, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 15px;
   display: grid;
   place-items: center;
+  padding: 70px 0;
 }
 
 img {
@@ -77,4 +78,15 @@ p {
   line-height: 19px;
   color: var(--color-grey);
   margin: 16px;
+}
+/*-------------------Attribution-------------------*/
+/*-------------------------------------------------*/
+.attribution {
+  text-align: center;
+  bottom: 16px;
+  margin-inline: 16px;
+}
+
+.attribution a {
+  color: var(--color-dark-navy);
 }
